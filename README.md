@@ -1,2 +1,2 @@
 # github-uchun-test-repo
-test uchun
+python uchun test repo bu
